@@ -1,7 +1,4 @@
-*
-
-!*.ipynb
-!*.R
-!*.RproJ
-
-!*/
+/data
+/Python_project/*.idea
+/Python_project/*.ipynb_checkpoints
+/Python_project/venv
