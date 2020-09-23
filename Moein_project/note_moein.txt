@@ -1,0 +1,20 @@
+qusage - APOPOtose
+
+hallmark = read.gmt('symbols')
+obtient tout les genes set
+
+Prend apoptose - get all genes
+
+
+extract genes from gene set
+
+
+DOWNLOAD GENE misgidb (?)
+
+SUBSET BY GENE (REMOVE ALL USELESS GENES)
+
+DISPLAY PHATE
+
+INTEGRATE SC_AGGREGATE
+
+
